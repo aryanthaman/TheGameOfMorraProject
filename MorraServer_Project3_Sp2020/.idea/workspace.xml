@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15e8cc17-1973-42f5-904b-0733f5551175" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aN4qHDb3T05bPaadTxA8zv2Xda" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MorraClient_Project3_Sp2020/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheGameOfMorra" />
+      <module name="MorraProject3Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MorraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MorraProject3Server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MorraTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="JUnit.MorraTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MorraTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15e8cc17-1973-42f5-904b-0733f5551175" name="Default Changelist" comment="" />
+      <created>1586562907208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586562907208</updated>
+      <workItem from="1586562915397" duration="92505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586641212174">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1586641212174" />
+    <state x="421" y="101" key="FileChooserDialogImpl" timestamp="1586664087281">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="101" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1586664087281" />
+    <state width="1237" height="141" key="GridCell.Tab.0.bottom" timestamp="1586926338852">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="141" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1586926338852" />
+    <state width="1237" height="141" key="GridCell.Tab.0.center" timestamp="1586926338852">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="141" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1586926338852" />
+    <state width="1237" height="141" key="GridCell.Tab.0.left" timestamp="1586926338852">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="141" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1586926338852" />
+    <state width="1237" height="141" key="GridCell.Tab.0.right" timestamp="1586926338852">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="141" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1586926338852" />
+    <state x="337" y="171" key="com.intellij.ide.util.TipDialog" timestamp="1586562915745">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="337" y="171" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1586562915745" />
+    <state x="633" y="0" width="653" height="696" key="dock-window-1" timestamp="1586819454891">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="633" y="0" width="653" height="696" key="dock-window-1/0.0.1280.689@0.0.1280.689" timestamp="1586819454891" />
+    <state x="91" y="48" key="new project wizard" timestamp="1586663975775">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="91" y="48" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1586663975775" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1586631606223">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1586631606223" />
+  </component>
+</project>
